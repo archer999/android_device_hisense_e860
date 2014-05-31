@@ -1,3 +1,5 @@
+learning purpose
+
 android_device_hisense_e860
 ===========================
 
