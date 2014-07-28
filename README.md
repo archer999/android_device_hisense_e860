@@ -1,7 +1,7 @@
 android_device_hisense_e860
 ===========================
 
-Device tree for Hisense E860 aka Andromax to build C11
+Device tree for Hisense E860 aka Andromax to build CM11
 
 this is initial build tree
 
